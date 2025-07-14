@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import { Image_url } from "../mockdata/constant";
 import { useEffect } from "react";
-import Scroller1 from "../shimmerComponents/Scroller1";
+import Scroller1 from "../ShimmerComponents/Scroller1";
 function Image(props) {
   // console.log(Image_url+props?.data?.imageId)
   return <img className="scroll-img" src={Image_url+props?.data?.imageId} alt="" />;
