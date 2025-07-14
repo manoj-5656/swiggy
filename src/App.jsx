@@ -1,6 +1,6 @@
 import React from 'react'
 import AppLayout from './components/AppLayout'
-import Search from './pages/search'
+import Search from './pages/Search'
 import Home from './pages/Home'
 import Corporate from './pages/Corporate'
 import Offers from './pages/Offers'
