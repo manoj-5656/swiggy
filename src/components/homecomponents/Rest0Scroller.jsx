@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { Resto_url } from "../mockdata/constant";
 // import Scroller1 from "../ShimmerComponents/Scroller1";
-import Scroller2 from "../ShimmerComponents/scroller2";
+import Scroller2 from "../ShimmerComponents/Scroller2";
 import { Link } from "react-router-dom";
 
 
